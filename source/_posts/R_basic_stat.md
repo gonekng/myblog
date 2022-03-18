@@ -1,7 +1,12 @@
 ---
 title : "R_basic_statistics"
+categories:
+  - r
+tag:
+  - r
+  - statistic
 author : "Jiwon Kang"
-date : '2022-03-15'
+date : 2022-03-15 16:42:09
 output : 
   html_document:
     keep_md : true

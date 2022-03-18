@@ -1,7 +1,11 @@
 ---
 title: "R_markdown Sample"
+categories:
+  - r
+tag:
+  - r
 author: "Jiwon Kang"
-date: '2022-03-18'
+date: 2022-03-18 10:02:35
 output: 
   html_document:
     keep_md: true

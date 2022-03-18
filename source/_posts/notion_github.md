@@ -1,7 +1,12 @@
 ---
 title: "Creating github blog with hexo"
+categories:
+  - hexo
+tag:
+  - hexo
+  - github
 author: "Jiwon Kang"
-date: '2022-03-15'
+date: 2022-03-17 17:18:21
 ---
 
 ### Repesitory 생성

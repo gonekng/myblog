@@ -1,6 +1,6 @@
 ---
 title: Personal Info
-date: 2022-03-18 11:36:35
+date: 2022-03-19 11:36:35
 tags:
 ---
 ### Info.
