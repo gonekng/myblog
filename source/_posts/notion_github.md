@@ -2,9 +2,6 @@
 title: "Creating github blog with hexo"
 author: "Jiwon Kang"
 date: '2022-03-15'
-output: 
-  html_document:
-    keep_md: true
 ---
 
 ### Repesitory 생성
