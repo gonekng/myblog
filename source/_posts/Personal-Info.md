@@ -1,7 +1,10 @@
 ---
 title: Personal Info
-date: 2022-03-19 11:36:35
-tags:
+categories:
+    - info
+author: "Jiwon Kang"
+date: 3000-01-01 00:00:00
+tags: 
 ---
 ### Info.
 Name: Jiwon Kang
