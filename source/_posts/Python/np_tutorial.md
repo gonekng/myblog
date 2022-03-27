@@ -2,8 +2,10 @@
 title: "Numpy tutorial"
 categories:
   - python
+  - tutorial
 tag:
   - python
+  - numpy
   - google colab
 author: "Jiwon Kang"
 date: 2022-03-24 11:51:00

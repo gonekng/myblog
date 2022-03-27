@@ -2,8 +2,10 @@
 title: "10minutes to Pandas"
 categories:
   - python
+  - tutorial
 tag:
   - python
+  - pandas
   - google colab
 author: "Jiwon Kang"
 date: 2022-03-24 11:55:23

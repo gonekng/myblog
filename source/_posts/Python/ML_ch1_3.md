@@ -2,10 +2,11 @@
 title: "ML Practice 1"
 categories:
   - python
+  - ML
 tag:
   - python
-  - google colab
   - machine learning
+  - google colab
 author: "Jiwon Kang"
 date: 2022-03-26 15:38:35
 ---
