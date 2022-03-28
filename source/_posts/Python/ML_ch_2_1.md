@@ -145,7 +145,7 @@ plt.show()
 
 
     
-![](/images/ML_ch_2_1.png)
+![](/images/Python/ML_ch_2_1.png)
     
 
 

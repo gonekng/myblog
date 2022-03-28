@@ -54,7 +54,7 @@ plt.show()
 
 
     
-![](/images/ML_ch_3_1.png)
+![](/images/Python/ML_ch_3_1.png)
     
 
 
