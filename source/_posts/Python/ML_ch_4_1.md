@@ -1,17 +1,3 @@
----
-title: "ML Practice 4_1"
-categories:
-  - python
-  - ML
-tag:
-  - python
-  - machine learning
-  - google colab
-author: "Jiwon Kang"
-date: 2022-03-29 12:40:54
----
-
-
 # Prepare Data
 
 ## Import data set
@@ -21,168 +7,16 @@ date: 2022-03-29 12:40:54
 import pandas as pd
 
 fish = pd.read_csv('https://bit.ly/fish_csv_data')
-fish.head()
+print(fish.head())
 ```
 
-
-
-
-
-  <div id="df-62740013-72b1-44df-989c-93ff95501d59">
-    <div class="colab-df-container">
-      <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th></th>
-      <th>Species</th>
-      <th>Weight</th>
-      <th>Length</th>
-      <th>Diagonal</th>
-      <th>Height</th>
-      <th>Width</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th>0</th>
-      <td>Bream</td>
-      <td>242.0</td>
-      <td>25.4</td>
-      <td>30.0</td>
-      <td>11.5200</td>
-      <td>4.0200</td>
-    </tr>
-    <tr>
-      <th>1</th>
-      <td>Bream</td>
-      <td>290.0</td>
-      <td>26.3</td>
-      <td>31.2</td>
-      <td>12.4800</td>
-      <td>4.3056</td>
-    </tr>
-    <tr>
-      <th>2</th>
-      <td>Bream</td>
-      <td>340.0</td>
-      <td>26.5</td>
-      <td>31.1</td>
-      <td>12.3778</td>
-      <td>4.6961</td>
-    </tr>
-    <tr>
-      <th>3</th>
-      <td>Bream</td>
-      <td>363.0</td>
-      <td>29.0</td>
-      <td>33.5</td>
-      <td>12.7300</td>
-      <td>4.4555</td>
-    </tr>
-    <tr>
-      <th>4</th>
-      <td>Bream</td>
-      <td>430.0</td>
-      <td>29.0</td>
-      <td>34.0</td>
-      <td>12.4440</td>
-      <td>5.1340</td>
-    </tr>
-  </tbody>
-</table>
-</div>
-      <button class="colab-df-convert" onclick="convertToInteractive('df-62740013-72b1-44df-989c-93ff95501d59')"
-              title="Convert this dataframe to an interactive table."
-              style="display:none;">
-
-  <svg xmlns="http://www.w3.org/2000/svg" height="24px"viewBox="0 0 24 24"
-       width="24px">
-    <path d="M0 0h24v24H0V0z" fill="none"/>
-    <path d="M18.56 5.44l.94 2.06.94-2.06 2.06-.94-2.06-.94-.94-2.06-.94 2.06-2.06.94zm-11 1L8.5 8.5l.94-2.06 2.06-.94-2.06-.94L8.5 2.5l-.94 2.06-2.06.94zm10 10l.94 2.06.94-2.06 2.06-.94-2.06-.94-.94-2.06-.94 2.06-2.06.94z"/><path d="M17.41 7.96l-1.37-1.37c-.4-.4-.92-.59-1.43-.59-.52 0-1.04.2-1.43.59L10.3 9.45l-7.72 7.72c-.78.78-.78 2.05 0 2.83L4 21.41c.39.39.9.59 1.41.59.51 0 1.02-.2 1.41-.59l7.78-7.78 2.81-2.81c.8-.78.8-2.07 0-2.86zM5.41 20L4 18.59l7.72-7.72 1.47 1.35L5.41 20z"/>
-  </svg>
-      </button>
-
-  <style>
-    .colab-df-container {
-      display:flex;
-      flex-wrap:wrap;
-      gap: 12px;
-    }
-
-    .colab-df-convert {
-      background-color: #E8F0FE;
-      border: none;
-      border-radius: 50%;
-      cursor: pointer;
-      display: none;
-      fill: #1967D2;
-      height: 32px;
-      padding: 0 0 0 0;
-      width: 32px;
-    }
-
-    .colab-df-convert:hover {
-      background-color: #E2EBFA;
-      box-shadow: 0px 1px 2px rgba(60, 64, 67, 0.3), 0px 1px 3px 1px rgba(60, 64, 67, 0.15);
-      fill: #174EA6;
-    }
-
-    [theme=dark] .colab-df-convert {
-      background-color: #3B4455;
-      fill: #D2E3FC;
-    }
-
-    [theme=dark] .colab-df-convert:hover {
-      background-color: #434B5C;
-      box-shadow: 0px 1px 3px 1px rgba(0, 0, 0, 0.15);
-      filter: drop-shadow(0px 1px 2px rgba(0, 0, 0, 0.3));
-      fill: #FFFFFF;
-    }
-  </style>
-
-      <script>
-        const buttonEl =
-          document.querySelector('#df-62740013-72b1-44df-989c-93ff95501d59 button.colab-df-convert');
-        buttonEl.style.display =
-          google.colab.kernel.accessAllowed ? 'block' : 'none';
-
-        async function convertToInteractive(key) {
-          const element = document.querySelector('#df-62740013-72b1-44df-989c-93ff95501d59');
-          const dataTable =
-            await google.colab.kernel.invokeFunction('convertToInteractive',
-                                                     [key], {});
-          if (!dataTable) return;
-
-          const docLinkHtml = 'Like what you see? Visit the ' +
-            '<a target="_blank" href=https://colab.research.google.com/notebooks/data_table.ipynb>data table notebook</a>'
-            + ' to learn more about interactive tables.';
-          element.innerHTML = '';
-          dataTable['output_type'] = 'display_data';
-          await google.colab.output.renderOutput(dataTable, element);
-          const docLink = document.createElement('div');
-          docLink.innerHTML = docLinkHtml;
-          element.appendChild(docLink);
-        }
-      </script>
-    </div>
-  </div>
-
-
-
+      Species  Weight  Length  Diagonal   Height   Width
+    0   Bream   242.0    25.4      30.0  11.5200  4.0200
+    1   Bream   290.0    26.3      31.2  12.4800  4.3056
+    2   Bream   340.0    26.5      31.1  12.3778  4.6961
+    3   Bream   363.0    29.0      33.5  12.7300  4.4555
+    4   Bream   430.0    29.0      34.0  12.4440  5.1340
+    
 
 
 ```python
