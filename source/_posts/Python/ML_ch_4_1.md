@@ -1,3 +1,17 @@
+---
+title: "ML Practice 4_1"
+categories:
+  - python
+  - ML
+tag:
+  - python
+  - machine learning
+  - google colab
+author: "Jiwon Kang"
+date: 2022-03-29 12:50:45
+---
+
+
 # Prepare Data
 
 ## Import data set
