@@ -197,6 +197,17 @@ print(lr.score(test_poly, test_target))
 - preventing the model from overfitting the training set
 - linear regression model : reducing the size of the coefficient multiplied by the feature.
 
+
+## hyperparameter: alpha
+  - parameter which has to be set in advance
+    + increase/decrease in regulatory intensity
+    + adjusted to increase the performance of the model
+  - Conceptual understanding is important, but it doesn't mean much in practice.
+    + No guarantee of performance compared to working hours.
+    + More than 100 libraries in scikit-learn, and the types and numbers of hyperparameters vary.
+  - Better to use the existing hyperparameters, for unfamiliar models.
+
+
 ## Normalize feature scales
 - using StandardScaler class in scikit-learn
 
@@ -232,10 +243,6 @@ print(ridge.score(test_scaled, test_target))
     
 
 - Many features are used, but they're not overfitting the training set and perform well on the test set.
-- Alpha in Ridge
-  + hyperparameter; which has to be set in advance
-  + alpha↑: increase in regulatory intensity
-  + alpha↓: decrease in regulatory intensity
 
 
 ```python
@@ -305,10 +312,6 @@ print(lasso.score(test_scaled, test_target))
     
 
 - Many features are used, but they're not overfitting the training set and perform well on the test set.
-- Alpha in Lasso
-  + hyperparameter; which has to be set in advance
-  + alpha↑: increase in regulatory intensity
-  + alpha↓: decrease in regulatory intensity
 
 
 ```python
