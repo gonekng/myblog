@@ -1,3 +1,17 @@
+---
+title: "ML Practice 4_2"
+categories:
+  - python
+  - ML
+tag:
+  - python
+  - machine learning
+  - google colab
+author: "Jiwon Kang"
+date: 2022-03-29 16:10:25
+---
+
+
 # Gradient Descent(경사 하강법)
 #### : Algorithm for finding the minimum value of a loss function using a sample of a training set
 1. stochastic gradient descent(확률적 경사 하강법; SGD)
