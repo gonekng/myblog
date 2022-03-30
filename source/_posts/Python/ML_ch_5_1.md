@@ -8,9 +8,8 @@ tag:
   - machine learning
   - google colab
 author: "Jiwon Kang"
-date: 2022-03-30 12:08:02
+date: 2022-03-30 15:10:20
 ---
-
 
 # Prepare Data
 
@@ -219,6 +218,66 @@ plt.show()
     
 
 
+
+```python
+# Tree Plot Image Download
+import graphviz
+from sklearn import tree
+
+dot_data = tree.export_graphviz(
+    dt, out_file=None, feature_names = ['alcohol','sugar','pH'], filled=True)
+
+graph = graphviz.Source(dot_data, format="png") 
+graph
+```
+
+
+
+
+    
+![svg](output_22_0.svg)
+    
+
+
+
+
+```python
+graph.render("decision_tree_graphivz")
+```
+
+
+
+
+    'decision_tree_graphivz.png'
+
+
+
+
+```python
+# Customize color of nodes
+
+from matplotlib.colors import ListedColormap, to_rgb
+import numpy as np
+
+plt.figure(figsize=(20, 15))
+artists = plot_tree(dt, filled = True, feature_names = ['alcohol','sugar','pH'])
+
+colors = ['blue', 'red']
+for artist, impurity, value in zip(artists, dt.tree_.impurity, dt.tree_.value):
+    r, g, b = to_rgb(colors[np.argmax(value)])
+    f = impurity * 2
+    artist.get_bbox_patch().set_facecolor((f + (1-f)*r, f + (1-f)*g, f + (1-f)*b))
+    artist.get_bbox_patch().set_edgecolor('black')
+
+plt.show()
+```
+
+
+    
+![](/images/Python/ML_ch_5_1_3.png)
+    
+
+
 - parameter min_impurity_decrease; default 0.0
   + Split nodes if this split induces a decrease of the impurity greater than or equal to this value.
   - More likely to be asymmetric tree
@@ -241,7 +300,7 @@ plt.show()
 
 
     
-![](/images/Python/ML_ch_5_1_3.png)
+![](/images/Python/ML_ch_5_1_4.png)
     
 
 
