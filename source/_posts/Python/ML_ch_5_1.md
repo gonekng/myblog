@@ -235,7 +235,7 @@ graph
 
 
     
-![svg](output_22_0.svg)
+![](/images/Python/ML_ch_5_1.svg)
     
 
 
