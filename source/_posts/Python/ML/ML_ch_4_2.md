@@ -163,7 +163,7 @@ plt.show()
 
 
     
-![](/images/Python/ML_ch_4_2.png)
+![](/images/Python/ML/ML_ch_4_2.png)
     
 
 

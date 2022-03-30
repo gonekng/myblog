@@ -444,6 +444,6 @@ plt.boxplot(sales['Unit price'])
 
 
     
-![](/images/Python/pd_tutorial_02.png)
+![](/images/Python/Tutorial/pd_tutorial_02.png)
     
 

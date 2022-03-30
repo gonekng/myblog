@@ -1315,7 +1315,7 @@ plt.show()
 
 
     
-![](/images/Python/10m_to_pd_1.png)
+![](/images/Python/Tutorial/10m_to_pd_1.png)
     
 
 
@@ -1330,7 +1330,7 @@ plt.show()
 
 
     
-![](/images/Python/10m_to_pd_2.png)
+![](/images/Python/Tutorial/10m_to_pd_2.png)
     
 
 

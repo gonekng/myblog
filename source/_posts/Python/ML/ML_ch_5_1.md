@@ -176,7 +176,7 @@ plt.show()
 
 
     
-![](/images/Python/ML_ch_5_1_1.png)
+![](/images/Python/ML/ML_ch_5_1_1.png)
     
 
 
@@ -214,7 +214,7 @@ plt.show()
 
 
     
-![](/images/Python/ML_ch_5_1_2.png)
+![](/images/Python/ML/ML_ch_5_1_2.png)
     
 
 
@@ -235,7 +235,7 @@ graph
 
 
     
-![](/images/Python/ML_ch_5_1.svg)
+![](/images/Python/ML/ML_ch_5_1.svg)
     
 
 
@@ -274,7 +274,7 @@ plt.show()
 
 
     
-![](/images/Python/ML_ch_5_1_3.png)
+![](/images/Python/ML/ML_ch_5_1_3.png)
     
 
 
@@ -300,7 +300,7 @@ plt.show()
 
 
     
-![](/images/Python/ML_ch_5_1_4.png)
+![](/images/Python/ML/ML_ch_5_1_4.png)
     
 
 

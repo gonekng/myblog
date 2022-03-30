@@ -76,7 +76,7 @@ plt.show()
 
 
     
-![](/images/Python/visual_tutorial_01_1.png)
+![](/images/Python/Tutorial/visual_tutorial_01_1.png)
     
 
 
@@ -137,7 +137,7 @@ plt.show()
 
 
     
-![](/images/Python/visual_tutorial_01_2.png)
+![](/images/Python/Tutorial/visual_tutorial_01_2.png)
     
 
 
@@ -158,7 +158,7 @@ plt.show()
 
 
     
-![](/images/Python/visual_tutorial_01_3.png)
+![](/images/Python/Tutorial/visual_tutorial_01_3.png)
     
 
 
@@ -209,7 +209,7 @@ plt.show()
 
 
     
-![](/images/Python/visual_tutorial_01_4.png)
+![](/images/Python/Tutorial/visual_tutorial_01_4.png)
     
 
 
@@ -224,7 +224,7 @@ plt.show()
 
 
     
-![](/images/Python/visual_tutorial_01_5.png)
+![](/images/Python/Tutorial/visual_tutorial_01_5.png)
     
 
 
@@ -268,7 +268,7 @@ plt.show()
 
 
     
-![](/images/Python/visual_tutorial_01_6.png)
+![](/images/Python/Tutorial/visual_tutorial_01_6.png)
     
 
 
@@ -314,7 +314,7 @@ plt.show()
 
 
     
-![](/images/Python/visual_tutorial_01_7.png)
+![](/images/Python/Tutorial/visual_tutorial_01_7.png)
     
 
 
@@ -334,7 +334,7 @@ plt.show()
 
 
     
-![](/images/Python/visual_tutorial_01_8.png)
+![](/images/Python/Tutorial/visual_tutorial_01_8.png)
     
 
 
@@ -373,7 +373,7 @@ plt.show()
 
 
     
-![](/images/Python/visual_tutorial_01_9.png)
+![](/images/Python/Tutorial/visual_tutorial_01_9.png)
     
 
 
@@ -391,7 +391,7 @@ plt.show()
 
 
     
-![](/images/Python/visual_tutorial_01_10.png)
+![](/images/Python/Tutorial/visual_tutorial_01_10.png)
     
 
 
@@ -493,6 +493,6 @@ plt.show()
 
 
     
-![](/images/Python/visual_tutorial_01_11.png)
+![](/images/Python/Tutorial/visual_tutorial_01_11.png)
     
 
