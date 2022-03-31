@@ -8,7 +8,7 @@ tag:
   - machine learning
   - google colab
 author: "Jiwon Kang"
-date: 2022-03-30 17:03:50
+date: 2022-03-31 17:03:50
 ---
 
 # K-means Clustering

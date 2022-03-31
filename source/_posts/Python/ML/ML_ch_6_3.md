@@ -8,7 +8,7 @@ tag:
   - machine learning
   - google colab
 author: "Jiwon Kang"
-date: 2022-03-30 17:04:57
+date: 2022-03-31 17:04:57
 ---
 
 # Dimensionaliy Reduction
