@@ -8,7 +8,7 @@ tag:
   - machine learning
   - google colab
 author: "Jiwon Kang"
-date: 2022-04-04 10:25:10
+date: 2022-04-05 10:20:01
 ---
 
 # Prepare Dataset
