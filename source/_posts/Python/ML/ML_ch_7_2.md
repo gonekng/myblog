@@ -1,5 +1,5 @@
 ---
-title: "ML Practice 7_1"
+title: "ML Practice 7_2"
 categories:
   - python
   - ML
