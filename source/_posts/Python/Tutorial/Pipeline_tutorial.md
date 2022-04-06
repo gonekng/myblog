@@ -1,5 +1,5 @@
 ---
-title: "ML Practice 7_3"
+title: "Pipeline Tutorial"
 categories:
   - python
   - tutorial
@@ -9,7 +9,7 @@ tag:
   - pipeline
   - google colab
 author: "Jiwon Kang"
-date: 2022-04-05 12:14:17
+date: 2022-04-06 10:05:01
 ---
 
 #### Pipeline : 데이터 누수(Data Leakge) 방지를 위한 모델링 기법
