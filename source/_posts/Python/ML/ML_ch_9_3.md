@@ -8,7 +8,7 @@ tag:
   - machine learning
   - google colab
 author: "Jiwon Kang"
-date: 2022-04-07 12:27:01
+date: 2022-04-08 12:27:01
 ---
   
 # LSTM(Long Short-Term Memory)
