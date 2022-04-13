@@ -312,3 +312,5 @@ print(lr2.score(test_poly, test_target)) # Underfitting
 
 - The model has improved a lot, but it is still underfit.
   + It seems that a more complex model is needed.
+
+*Ref.) <u> 혼자 공부하는 머신러닝+딥러닝 (박해선, 한빛미디어) <u/>*

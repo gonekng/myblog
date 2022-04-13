@@ -267,3 +267,5 @@ print(gs.best_params_)
 
     {'max_depth': 29, 'min_impurity_decrease': 0.000437615171403628}
     
+
+*Ref.) <u> 혼자 공부하는 머신러닝+딥러닝 (박해선, 한빛미디어) <u/>*

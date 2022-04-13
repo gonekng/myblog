@@ -375,3 +375,5 @@ print(np.round(proba, decimals=3)) # probability value through softmax function
      [0.011 0.034 0.306 0.007 0.567 0.    0.076]
      [0.    0.    0.904 0.002 0.089 0.002 0.001]]
     
+
+*Ref.) <u> 혼자 공부하는 머신러닝+딥러닝 (박해선, 한빛미디어) <u/>*

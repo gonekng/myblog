@@ -172,3 +172,5 @@ print(kn.predict(test_input) == test_target)
     [ True  True  True  True  True  True  True  True  True  True  True  True
       True  True]
     
+
+*Ref.) <u> 혼자 공부하는 머신러닝+딥러닝 (박해선, 한빛미디어) <u/>*

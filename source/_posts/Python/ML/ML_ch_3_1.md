@@ -167,3 +167,5 @@ print(mae) # On average, about 35.4 grams different from the target.
 ## Conclusion
 1. k=5 : R^2= 0.99, MAE=19.2
 2. k=3 : R^2= 0.97, MAE=35.4
+
+*Ref.) <u> 혼자 공부하는 머신러닝+딥러닝 (박해선, 한빛미디어) <u/>*

@@ -88,3 +88,5 @@ keras.layers.AveragePooling2D(2, strides=2, padding="valid")
 4. Repeat the above process
 5. Fully Connected Layer
 6. Calculate classification predictions (Softmax)
+
+*Ref.) <u> 혼자 공부하는 머신러닝+딥러닝 (박해선, 한빛미디어) <u/>*

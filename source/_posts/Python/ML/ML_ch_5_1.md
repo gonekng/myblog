@@ -315,3 +315,5 @@ print(dt.feature_importances_) # Sugar is the most important feature.
 
     [0.12345626 0.86862934 0.0079144 ]
     
+
+*Ref.) <u> 혼자 공부하는 머신러닝+딥러닝 (박해선, 한빛미디어) <u/>*

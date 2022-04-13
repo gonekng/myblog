@@ -374,3 +374,5 @@ print(np.sum(lasso.coef_==0))
 
 - 40 coefficients became zero
 - Of the 55 features, only 15 were finally used.
+
+*Ref.) <u> 혼자 공부하는 머신러닝+딥러닝 (박해선, 한빛미디어) <u/>*

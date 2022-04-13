@@ -184,3 +184,5 @@ print(sc.score(test_scaled, test_target))
     0.957983193277311
     0.925
     
+
+*Ref.) <u> 혼자 공부하는 머신러닝+딥러닝 (박해선, 한빛미디어) <u/>*

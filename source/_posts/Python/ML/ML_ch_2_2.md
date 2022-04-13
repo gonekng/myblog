@@ -234,3 +234,5 @@ plt.show()
 ![](/images/Python/ML/ML_ch_2_2_5.png)
     
 
+
+*Ref.) <u> 혼자 공부하는 머신러닝+딥러닝 (박해선, 한빛미디어) <u/>*

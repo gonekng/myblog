@@ -266,3 +266,5 @@ for artist, impurity, value in zip(ax, dt.tree_.impurity, dt.tree_.value):
 ![](/images/Python/ML/plot_tree_ex_6.png)
     
 
+
+*Ref.) <u> 혼자 공부하는 머신러닝+딥러닝 (박해선, 한빛미디어) <u/>*

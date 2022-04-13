@@ -564,3 +564,5 @@ plt.show()
 
 
 - It stopped early in 5 epoch, and the issue of overfitting was solved.
+
+*Ref.) <u> 혼자 공부하는 머신러닝+딥러닝 (박해선, 한빛미디어) <u/>*

@@ -124,3 +124,5 @@ print(np.mean(scores['train_score']), np.mean(scores['test_score'])) # good fitt
 2. compare multiple models with default hyperparameter
 3. Cross-validation and Hyperparameter tuning
 4. Repeat the above process until finding the best result
+
+*Ref.) <u> 혼자 공부하는 머신러닝+딥러닝 (박해선, 한빛미디어) <u/>*
