@@ -126,7 +126,7 @@ plt.show()
 
 
     
-![](/imges/Python/ML/ML_ch_9_2_1.png)
+![](/images/Python/ML/ML_ch_9_2_1.png)
     
 
 
@@ -353,7 +353,7 @@ plt.show()
 
 
     
-![](/imges/Python/ML/ML_ch_9_2_2.png)
+![](/images/Python/ML/ML_ch_9_2_2.png)
     
 
 
@@ -473,7 +473,7 @@ plt.show()
 
 
     
-![](/imges/Python/ML/ML_ch_9_2_3.png)
+![](/images/Python/ML/ML_ch_9_2_3.png)
     
 
 

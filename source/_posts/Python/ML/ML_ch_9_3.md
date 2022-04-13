@@ -207,7 +207,7 @@ plt.show()
 
 
     
-![](/imges/Python/ML/ML_ch_9_3_1.png)
+![](/images/Python/ML/ML_ch_9_3_1.png)
     
 
 
@@ -354,7 +354,7 @@ plt.show()
 
 
     
-![](/imges/Python/ML/ML_ch_9_3_2.png)
+![](/images/Python/ML/ML_ch_9_3_2.png)
     
 
 
@@ -506,7 +506,7 @@ plt.show()
 
 
     
-![](/imges/Python/ML/ML_ch_9_3_3.png)
+![](/images/Python/ML/ML_ch_9_3_3.png)
     
 
 
@@ -667,8 +667,6 @@ plt.show()
 
 
     
-![](/imges/Python/ML/ML_ch_9_3_4.png)
-    
-
+![](/images/Python/ML/ML_ch_9_3_4.png)
 
 *Ref.) <u> 혼자 공부하는 머신러닝+딥러닝 (박해선, 한빛미디어) <u/>*
