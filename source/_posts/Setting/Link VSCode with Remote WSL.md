@@ -18,12 +18,12 @@ date: 2022-04-15 17:33:16
 - URL : **[https://code.visualstudio.com/download](https://code.visualstudio.com/download)**
 - Download the **System Installer** for each OS.
     
-    ![](/images/Setting/vscode_remotewsl2/Untitled.png)
+    ![](/images/Setting/vscode_remotewsl2/1.png)
     
 
 - Check ‘Add to PATH’ and reboot after installation.
     
-    ![](source/images/Setting/vscode_remotewsl2/Untitled 1.png)
+    ![](/images/Setting/vscode_remotewsl2/2.png)
     
 
 ---
@@ -32,30 +32,30 @@ date: 2022-04-15 17:33:16
 
 - Install Remote WSL in Extension tab of VSCode.
     
-    ![](/images/Setting/vscode_remotewsl2/Untitled 2.png)
+    ![](/images/Setting/vscode_remotewsl2/3.png)
     
 
 - **(File tab → Open Folder)** Select the airflow-test folder that WSL installed.
     
-    ![](/images/Setting/vscode_remotewsl2/Untitled 3.png)
+    ![](/images/Setting/vscode_remotewsl2/4.png)
     
 
 - **(Terminal → New Terminal)** Open a new terminal and add a WSL terminal.
     
-    ![](/images/Setting/vscode_remotewsl2/Untitled 4.png)
+    ![](/images/Setting/vscode_remotewsl2/5.png)
     
-    ![](/images/Setting/vscode_remotewsl2/Untitled 5.png)
+    ![](/images/Setting/vscode_remotewsl2/6.png)
     
 
 - Activate the virtual environment in WSL terminal.
     
-    ![](/images/Setting/vscode_remotewsl2/Untitled 6.png)
+    ![](/images/Setting/vscode_remotewsl2/7.png)
     
 
 - Run a python code and check if it is printed well.
     - ex) main.py
     
-    ![](/images/Setting/vscode_remotewsl2/Untitled 7.png)
+    ![](/images/Setting/vscode_remotewsl2/8.png)
     
 
 ## Reference

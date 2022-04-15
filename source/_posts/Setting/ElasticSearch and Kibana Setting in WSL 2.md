@@ -130,7 +130,7 @@ $ curl -X GET "localhost:9200/"
 
 - Check whether it is printed well on the window screen.
     
-    ![](/images/Setting/elasticsearch_kibana/Untitled.png)
+    ![](/images/Setting/elasticsearch_kibana/1.png)
     
 
 ---
@@ -173,7 +173,7 @@ Apr 14 11:53:07 DESKTOP-JM1I3QF systemd[1]: Started Kibana.
 - Make sure it connects to ElasticSearch well
     - URL : **[http://localhost:5601/](http://localhost:5601/)**
         
-        ![](/images/Setting/elasticsearch_kibana/Untitled 1.png)
+        ![](/images/Setting/elasticsearch_kibana/2.png)
         
 
 ---

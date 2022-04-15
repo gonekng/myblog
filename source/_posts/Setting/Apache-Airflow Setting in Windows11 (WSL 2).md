@@ -92,7 +92,7 @@ id | username | email              | first_name | last_name | roles
 
 - Open **airflow.cfg** file, and change the value of load_examples from True to False.
     
-    ![](/images/Setting/apache_airflow/Untitled.png)
+    ![](/images/Setting/apache_airflow/1.png)
  
 - Reset the db in terminal.
 
@@ -112,7 +112,7 @@ $ airflow scheduler
 - Connect the airflow webserver.
     - URL : **[http://localhost:8080/login/](http://localhost:8080/login/)**
         
-        ![](/images/Setting/apache_airflow/Untitled 1.png)
+        ![](/images/Setting/apache_airflow/2.png)
         
     
 
