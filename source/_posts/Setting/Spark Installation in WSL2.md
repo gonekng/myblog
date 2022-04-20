@@ -9,7 +9,7 @@ tag:
   - spark
   - wsl2
 author: "Jiwon Kang"
-date: 2022-04-19 11:50:39
+date: 2022-04-20 16:39:12
 ---
 
 ## Step 1. Install required files
