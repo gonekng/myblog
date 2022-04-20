@@ -50,7 +50,7 @@ date: 2022-04-20 16:39:12
 
 - Run `pyspark` in the path.
     
-    ![](/images/Setting/Spark_wsl2/0.png)
+    ![](/images/Setting/Spark_WSL2/0.png)
     
 
 - Run the code below in the CMD and check the result printed.
@@ -126,9 +126,9 @@ $ pip install pyspark
 
 - Check the address below and copy it.
     
-    ![](/images/Setting/Spark_wsl2/1.png)
+    ![](/images/Setting/Spark_WSL2/1.png)
     
 
 - Enter the corresponding address in the web browser and check the web UI.
     
-    ![](/images/Setting/Spark_wsl2/2.png)
+    ![](/images/Setting/Spark_WSL2/2.png)
