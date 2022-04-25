@@ -6,7 +6,7 @@ categories:
 tag:
   - python
   - crawling
-  - BeautfulSoup
+  - BeautifulSoup
 author: "Jiwon Kang"
 date: 2022-04-22 12:39:12
 ---

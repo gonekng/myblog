@@ -6,7 +6,7 @@ categories:
 tag:
   - python
   - crawling
-  - BeautfulSoup
+  - BeautifulSoup
 author: "Jiwon Kang"
 date: 2022-04-22 15:22:10
 ---
@@ -15,18 +15,18 @@ date: 2022-04-22 15:22:10
 
 - Access **Developer Tools** of the website and enter the **Nework** tab.
     
-    ![](/images/Python/Crawling/0.png)
+    ![](/images/Python/Crawling/Crawling_News/0.png)
     
 
 - Type `ctrl + R` and enter the **Doc** tap.
     
-    ![](/images/Python/Crawling/1.png)
+    ![](/images/Python/Crawling/Crawling_News/1.png)
     
 
 - Enter a site and check the **Headers** tap with the site.
     - Copy the value of **referer** and **user-agent.**
     
-    ![](/images/Python/Crawling/2.png)
+    ![](/images/Python/Crawling/Crawling_News/2.png)
     
 
 ## Crawling Code
