@@ -62,10 +62,10 @@ SELECT a.code, a.inflation_rate, a.unemployment_rate
 	WHERE a.year = 2015
 	    AND a.code
 	        NOT IN (SELECT b.code
-		    			FROM subquery_countries b
-						WHERE b.gov_form = 'Constitutional Monarchy'
-			    			OR b.gov_form LIKE '%Republic%')
-				        ORDER BY a.inflation_rate ASC;
+		    		FROM subquery_countries b
+					WHERE b.gov_form = 'Constitutional Monarchy'
+			    	    OR b.gov_form LIKE '%Republic%')
+				       ORDER BY a.inflation_rate ASC;
 ```
 
 ---
@@ -90,14 +90,14 @@ SELECT country_name, continent, inflation_rate
 With basis AS (
 		SELECT country_name, continent, inflation_rate
 		    FROM subquery_countries
-				INNER JOIN economies
-				USING (code)
+			INNER JOIN economies
+			USING (code)
 			WHERE year = 2015
 		)
 	, max_inf AS (
 		SELECT continent, MAX(inflation_rate) as inflation_rate
-			FROM basis
-			GROUP BY continent
+		    FROM basis
+		    GROUP BY continent
 		)
 SELECT a.country_name, b.continent, b.inflation_rate
 	FROM basis a, max_inf b
@@ -119,12 +119,12 @@ SELECT a.country_name, b.continent, b.inflation_rate
 ```sql
 With sub_table AS (
 		SELECT ROWNUM-95 AS ROW_N
-			    , YEAR, CITY, SPORT, DISCIPLINE, ATHLETE
-			FROM summer_medals
+	        , YEAR, CITY, SPORT, DISCIPLINE, ATHLETE
+		FROM summer_medals
 		)
 SELECT *
-		FROM sub_table
-		WHERE ROW_N > 0;
+	FROM sub_table
+	WHERE ROW_N > 0;
 ```
 
 ---
@@ -140,8 +140,8 @@ SELECT *
 SELECT year
       , ROW_NUMBER() OVER (ORDER BY year) as ROW_N
 	FROM (SELECT year
-	        FROM summer_medals
-			GROUP BY year);
+	       FROM summer_medals
+		   GROUP BY year);
 ```
 
 ---
@@ -195,6 +195,6 @@ WITH basis AS (
 				AND Medal = 'Gold'
 		)
 SELECT year, champion
-	  , LAG(champion, 1) OVER(order by champion) AS LAST_CHAMPION
+      , LAG(champion, 1) OVER(order by champion) AS LAST_CHAMPION
 	FROM basis;
 ```
