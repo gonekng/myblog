@@ -81,7 +81,7 @@ SELECT country_name, continent, inflation_rate
 		WHERE year = 2015;
 ```
 
-### A3.
+### A4.
 
 ```sql
 With basis AS (
