@@ -1,6 +1,6 @@
 import os
 
-file_path = 'C:\\Users\\SAMSUNG\\Desktop\\myblog\\source\\images\\sql\\sql_ex'
+file_path = 'C:\\Users\\SAMSUNG\\Desktop\\myblog\\source\\images\\Setting\\setting_VSCode'
 file_names = os.listdir(file_path)
 
 i = 0
