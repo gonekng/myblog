@@ -231,7 +231,7 @@ widgets:
         # Author's current location
         location: Seoul, South Korea
         # URL or path to the avatar image
-        avatar: /images/profile2.jpg
+        avatar: /images/profile.png
         # Whether show the rounded avatar image
         avatar_rounded: false
         # Email address for the Gravatar
