@@ -9,7 +9,7 @@ tags:
 ### Info.
 Name: Jiwon Kang
 Birth: 1996-02-12
-MBTI: ISTP-A
+MBTI: ESTP-A
 Phone: 010.3644.1912
 Email: donumm64@gmail.com
 
