@@ -1,7 +1,10 @@
+import sys
 import os
 
-file_path = 'C:\\Users\\SAMSUNG\\Desktop\\myblog\\source\\images\\Setting\\setting_VSCode'
+base_path = 'C:\\Users\\user\\Desktop\\강지원\\Github\\myblog\\source\\images\\'
+file_path = base_path + sys.argv[1]
 file_names = os.listdir(file_path)
+print(file_names[0])
 
 i = 0
 for name in file_names:
