@@ -10,7 +10,6 @@ author: "Jiwon Kang"
 date: 2022-10-17 16:14:08
 ---
 
-# Git Installation in Windows11
 
 ## Git 설치파일 다운로드
 
@@ -28,6 +27,7 @@ date: 2022-10-17 16:14:08
     
     ![](/images/Setting/git_install/2.png)
     
+<br>
 
 ## Git Setup 마법사 실행
 
@@ -101,6 +101,8 @@ date: 2022-10-17 16:14:08
 
 1. 모든 설치가 완료된 후 Finish 클릭
 
+<br>
+
 ## Git Bash 사용자 정보 입력
 
 1. Git Bash 실행 후 사용자 정보 등록
@@ -114,6 +116,8 @@ date: 2022-10-17 16:14:08
     - .gitconfig에 저장되어 있는 설정 값 확인 : `cat ~/.gitconfig`
 
 ![](/images/Setting/git_install/19.png)
+
+<br>
 
 ### Ref.
 
