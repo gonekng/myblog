@@ -2,7 +2,6 @@
 title: "Setting VS Code for Web Development"
 categories:
   - setting
-  - development
 tag:
   - setting
   - development

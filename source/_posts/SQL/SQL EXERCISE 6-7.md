@@ -2,7 +2,6 @@
 title: "SQL EXERCISE 6-7"
 categories:
   - sql
-  - Oracle
 tag:
   - sql
   - Oracle
@@ -11,6 +10,7 @@ date: 2022-05-02 09:32:11
 ---
 
 # CHAPTER 06
+> '오라클 SQL과 PL/SQL을 다루는 기술 (길벗)'
 
 ### Q1.
 

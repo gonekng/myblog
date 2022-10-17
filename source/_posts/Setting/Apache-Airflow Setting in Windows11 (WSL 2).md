@@ -2,7 +2,6 @@
 title: "Apache-Airflow Setting in Windows11 (WSL 2)"
 categories:
   - setting
-  - data engineering
 tag:
   - setting
   - data engineering

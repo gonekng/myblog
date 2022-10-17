@@ -2,7 +2,6 @@
 title: "ElasticSearch and Kibana Setting in WSL 2"
 categories:
   - setting
-  - data engineering
 tag:
   - setting
   - data engineering

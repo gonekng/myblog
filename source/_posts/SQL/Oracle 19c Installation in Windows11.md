@@ -2,7 +2,6 @@
 title: "Oracle 19c Installation in Windows11"
 categories:
   - sql
-  - Oracle
 tag:
   - sql
   - Oracle

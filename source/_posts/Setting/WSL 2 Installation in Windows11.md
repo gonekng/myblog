@@ -2,7 +2,6 @@
 title: "WSL 2 Installation in Windows11"
 categories:
   - setting
-  - data engineering
 tag:
   - setting
   - data engineering

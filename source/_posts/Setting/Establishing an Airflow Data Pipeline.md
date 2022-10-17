@@ -2,7 +2,6 @@
 title: "Establishing an Airflow Data Pipeline"
 categories:
   - setting
-  - data engineering
 tag:
   - setting
   - data engineering

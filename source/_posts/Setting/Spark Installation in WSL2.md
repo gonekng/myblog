@@ -2,7 +2,6 @@
 title: "Spark Installation in WSL2"
 categories:
   - setting
-  - data engineering
 tag:
   - setting
   - data engineering

@@ -2,7 +2,6 @@
 title: "Spark Installation on Windows11"
 categories:
   - setting
-  - data engineering
 tag:
   - setting
   - data engineering

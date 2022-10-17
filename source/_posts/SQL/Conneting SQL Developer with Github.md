@@ -2,7 +2,6 @@
 title: "Conneting SQL Developer with Github"
 categories:
   - sql
-  - Oracle
 tag:
   - sql
   - Oracle

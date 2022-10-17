@@ -2,7 +2,6 @@
 title: "Link VSCode with Remote WSL"
 categories:
   - setting
-  - data engineering
 tag:
   - setting
   - data engineering
