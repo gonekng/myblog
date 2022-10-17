@@ -15,17 +15,17 @@ date: 2022-10-17 16:14:08
 
 1. [git-scm.com](https://git-scm.com/) 에서 Downloads 클릭
     
-    ![](/images/Setting/git_install/0.png)
+    ![](/images/Setting/git_install/0.png)  
     
 
 1. 현재 사용 중인 운영체제(Windows) 클릭
     
-    ![](/images/Setting/git_install/1.png)
+    ![](/images/Setting/git_install/1.png)  
     
 
 1. 현재 사용 중인 시스템 아키텍처(64비트)에 해당하는 링크를 클릭하여 설치 파일 다운
     
-    ![](/images/Setting/git_install/2.png)
+    ![](/images/Setting/git_install/2.png)  
     
 <br>
 
@@ -33,17 +33,17 @@ date: 2022-10-17 16:14:08
 
 1. 다운로드받은 Git Setup 파일을 실행
     
-    ![](/images/Setting/git_install/3.png)
+    ![](/images/Setting/git_install/3.png)  
     
 
 1. 설치하기 위한 경로 지정 후 Next 클릭
     
-    ![](/images/Setting/git_install/4.png)
+    ![](/images/Setting/git_install/4.png)  
     
 
 1. 설치할 구성요소 선택 후 Next 클릭
     
-    ![](/images/Setting/git_install/5.png)
+    ![](/images/Setting/git_install/5.png)  
     
     - 일반적으로 기본 상태 그대로 진행해도 무관
         - Additional icons
@@ -59,18 +59,18 @@ date: 2022-10-17 16:14:08
 
 1. 시작 폴더 경로 지정 후 Next 클릭
     
-    ![](/images/Setting/git_install/6.png)
+    ![](/images/Setting/git_install/6.png)  
     
 
 1. 기본 Git 에디터 선택 후 Next 클릭
     
-    ![](/images/Setting/git_install/7.png)
+    ![](/images/Setting/git_install/7.png)  
     
     - 기본 옵션은 Vim 편집기이며, Notepad, VSCode, Sublime 등등 선택 가능
 
 1. Branch 이름 지정 옵션 선택 후 Next 클릭
     
-    ![](/images/Setting/git_install/8.png)
+    ![](/images/Setting/git_install/8.png)  
     
     - Let Git decide : 기본적으로 master로 지정, 추후 변경 가능
     - Override the default branch name for new repositories : 입력한 이름으로 자동 지정
@@ -78,25 +78,25 @@ date: 2022-10-17 16:14:08
 
 1. 이후 옵션들은 별도 지정이나 변경 없이 넘어가고, 마지막 Install 시 설치 진행
     
-    ![](/images/Setting/git_install/9.png)
+    ![](/images/Setting/git_install/9.png)  
     
-    ![](/images/Setting/git_install/10.png)
+    ![](/images/Setting/git_install/10.png)  
     
-    ![](/images/Setting/git_install/11.png)
+    ![](/images/Setting/git_install/11.png)  
     
-    ![](/images/Setting/git_install/12.png)
+    ![](/images/Setting/git_install/12.png)  
     
-    ![](/images/Setting/git_install/13.png)
+    ![](/images/Setting/git_install/13.png)  
     
-    ![](/images/Setting/git_install/14.png)
+    ![](/images/Setting/git_install/14.png)  
     
-    ![](/images/Setting/git_install/15.png)
+    ![](/images/Setting/git_install/15.png)  
     
-    ![](/images/Setting/git_install/16.png)
+    ![](/images/Setting/git_install/16.png)  
     
-    ![](/images/Setting/git_install/17.png)
+    ![](/images/Setting/git_install/17.png)  
     
-    ![](/images/Setting/git_install/18.png)
+    ![](/images/Setting/git_install/18.png)  
     
 
 1. 모든 설치가 완료된 후 Finish 클릭
@@ -114,8 +114,7 @@ date: 2022-10-17 16:14:08
         ```
         
     - .gitconfig에 저장되어 있는 설정 값 확인 : `cat ~/.gitconfig`
-
-![](/images/Setting/git_install/19.png)
+    ![](/images/Setting/git_install/19.png)  
 
 <br>
 
