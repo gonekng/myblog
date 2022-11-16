@@ -2,10 +2,9 @@
 title: "SQL TEST 6-7"
 categories:
   - sql
-  - Oracle
 tag:
   - sql
-  - Oracle
+  - oracle
 author: "Jiwon Kang"
 date: 2022-05-02 12:08:45
 ---

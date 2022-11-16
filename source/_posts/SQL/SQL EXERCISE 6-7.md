@@ -4,7 +4,7 @@ categories:
   - sql
 tag:
   - sql
-  - Oracle
+  - oracle
 author: "Jiwon Kang"
 date: 2022-05-02 09:32:11
 ---

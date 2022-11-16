@@ -13,7 +13,7 @@ date: 2022-11-16 18:55:51
 
 ![](/images/hexo/disqus/0.png)
 
-Hexo 블로그의 Hueman 테마는 기본적으로 Disqus 서비스를 지원하며, 이를 통해 블로그의 댓글 기능을 설정할 수 있다. ([Hexo 블로그 Hueman 테마 설정](https://gonekng.github.io/2022/11/16/hueman_theme/))
+Hexo 블로그의 Hueman 테마는 기본적으로 Disqus 서비스를 지원하며, 이를 통해 블로그의 댓글 기능을 설정할 수 있다. ([Hexo 블로그 Hueman 테마 설정](https://gonekng.github.io/2022/11/16/hexo/hueman_theme/))
 
 ## Disqus 회원가입
 
