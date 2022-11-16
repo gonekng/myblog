@@ -151,4 +151,4 @@ share: default # options: jiathis, bdshare, addtoany, default
 
 # Result
 
-![](hueman_result.png)
+![](/images/hueman_result.png)
