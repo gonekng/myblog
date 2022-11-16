@@ -135,7 +135,7 @@ comment:
 ```
 
 - 댓글 기능은 기본적으로 제공하는 [Disqus](https://disqus.com/) 서비스를 사용하면 된다.  [Disqus](https://disqus.com/) 사이트에 회원가입 및 로그인 후 해당하는 아이디를 입력한다.
-- 자세한 내용은 별도의 게시글에서 추후 다룰 예정이다.
+- 자세한 내용은 [Disqus로 블로그 댓글 기능 설정](https://gonekng.github.io/2022/11/16/disqus_comment/) 참조
 
 
 ### **공유**
@@ -151,4 +151,9 @@ share: default # options: jiathis, bdshare, addtoany, default
 
 # Result
 
-![](/images/hueman_result.png)
+![](/images/hexo/hueman_result.png)
+
+
+### Reference
+
+- [https://futurecreator.github.io/2016/06/14/hexo-apply-hueman-theme/](https://futurecreator.github.io/2016/06/14/hexo-apply-hueman-theme/)
