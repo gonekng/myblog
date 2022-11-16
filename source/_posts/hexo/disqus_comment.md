@@ -11,7 +11,7 @@ date: 2022-11-16 18:55:51
 ---
 
 
-![Untitled](/images/hexo/disqus/0.png)
+![](/images/hexo/disqus/0.png)
 
 Hexo 블로그의 Hueman 테마는 기본적으로 Disqus 서비스를 지원하며, 이를 통해 블로그의 댓글 기능을 설정할 수 있다. ([Hexo 블로그 Hueman 테마 설정](https://gonekng.github.io/2022/11/16/hueman_theme/))
 
@@ -19,51 +19,55 @@ Hexo 블로그의 Hueman 테마는 기본적으로 Disqus 서비스를 지원하
 
 - Disqus 사이트에 회원가입 후 로그인한다.
 
+<br>
+
 ## Disqus 사이트 추가
 
 - 메인 페이지에서 `Get Started` 클릭
     
-    ![Untitled1.png](/images/hexo/disqus/1.png)
+    ![](/images/hexo/disqus/1.png)
     
 - `I want to install Disqus on my site` 클릭
     
-    ![Untitled2.png](/images/hexo/disqus/2.png)
+    ![](/images/hexo/disqus/2.png)
     
 - `Website Name`, `Category`, `Language` 지정
     
-    ![Untitled3.png](/images/hexo/disqus/3.png)
+    ![](/images/hexo/disqus/3.png)
     
 - `Basic` 요금제 선택
     
-    ![Untitled4.png](/images/hexo/disqus/4.png)
+    ![](/images/hexo/disqus/4.png)
     
 - `I don’t see my platform listed, install manually with Universal Code` 클릭
     
-    ![Untitled5.png](/images/hexo/disqus/5.png)
+    ![](/images/hexo/disqus/5.png)
     
 - `configure` 클릭
     
-    ![Untitled6.png](/images/hexo/disqus/6.png)
+    ![](/images/hexo/disqus/6.png)
     
 - `Website URL` 항목에 블로그 주소 입력 후 `Next` 클릭
     
-    ![Untitled7.png](/images/hexo/disqus/7.png)
+    ![](/images/hexo/disqus/7.png)
     
 - `Balanced` 옵션 선택 후 `Complete Setup` 클릭
     
-    ![Untitled8.png](/images/hexo/disqus/8.png)
+    ![](/images/hexo/disqus/8.png)
     
 - `Dismiss Setup` 클릭
     
-    ![Untitled9.png](/images/hexo/disqus/9.png)
+    ![](/images/hexo/disqus/9.png)
     
 - 오른쪽 상단에 있는 `Edit Settings` 클릭
     
-    ![Untitled10.png](/images/hexo/disqus/10.png)
+    ![](/images/hexo/disqus/10.png)
     
 - `Shortname` 항목에 있는 나의 Shortname 확인
 
-![Untitled11.png](/images/hexo/disqus/11.png)
+    ![](/images/hexo/disqus/11.png)
+
+<br>
 
 ## **_config.icarus.yml에 Shortname 설정하기**
 
@@ -75,6 +79,7 @@ Hexo 블로그의 Hueman 테마는 기본적으로 Disqus 서비스를 지원하
         disqus: gonekng # enter disqus shortname here
     ```
     
+<br>
 
 ### Reference
 
