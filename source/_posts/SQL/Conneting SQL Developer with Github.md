@@ -16,12 +16,14 @@ date: 2022-04-26 16:02:41
     
     ![](/images/sql/SQLdeveloper/1.jpg)
 
+
 - `Settings` > `Developer settings` 에서 새로운 Personal access token을 발급받는다.
     - 새로 생성한 Repository의 이름을 입력하고 Select scopes에서 `repo`를 체크한 후 토큰을 생성한다.
     - 이때 생성된 토큰 번호는 다시 알 수 없기 때문에, 발급 즉시 복사하여 다른 곳에 저장해두어야 함
     
     ![](/images/sql/SQLdeveloper/16.jpg)
     
+
 
 ## Step 2. SQL Developer Git 복제
 
@@ -87,10 +89,12 @@ date: 2022-04-26 16:02:41
     ![](/images/sql/SQLdeveloper/13.jpg)
     
     ![](/images/sql/SQLdeveloper/14.jpg)
-    
+
+ 
 - 다음과 같은 에러가 발생할 경우 Step 2의 Git 복제 마법사를 다시 실행하고, Github 비밀번호에 앞서 발급받은 토큰 번호를 입력한다.
     
     ![](/images/sql/SQLdeveloper/15.jpg)
+
 
 - Perform the push operation again and check that it is uploaded normally.
     
