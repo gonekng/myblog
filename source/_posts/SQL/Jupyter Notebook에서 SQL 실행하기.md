@@ -18,7 +18,7 @@ date: 2022-11-18 23:37:04
     pip install ipython-sql
     ```
     
-    ![Untitled](/images/sql/sql_Jupiter/0.png)
+    ![](/images/sql/sql_Jupiter/0.png)
     
   
 - 접속하고자 하는 DB에 맞게 라이브러리를 설치한다
@@ -37,7 +37,7 @@ date: 2022-11-18 23:37:04
     pip install cx_Oracle
     ```
     
-    ![Untitled](/images/sql/sql_Jupiter/1.png)
+    ![](/images/sql/sql_Jupiter/1.png)
     
 
 ## Jupyter Notebook에서 설정하기
@@ -51,12 +51,12 @@ date: 2022-11-18 23:37:04
   
 - 다음과 같은 창이 뜨면 Install을 누른다.
     
-    ![Untitled](/images/sql/sql_Jupiter/2.png)
+    ![](/images/sql/sql_Jupiter/2.png)
     
   
 - 설치하면 정상적으로 실행이 된다
     
-    ![Untitled](/images/sql/sql_Jupiter/3.png)
+    ![](/images/sql/sql_Jupiter/3.png)
     
   
 - 접속하려는 DB에 맞는 코드를 입력 후 실행
@@ -75,17 +75,17 @@ date: 2022-11-18 23:37:04
     %sql oracle://user_name:password@127.0.0.1:port_number/db
     ```
     
-    ![Untitled](/images/sql/sql_Jupiter/4.png)
+    ![](/images/sql/sql_Jupiter/4.png)
     
   
 - 연결이 되었으면 코드 앞에 `%%sql`을 붙이고 쿼리를 실행한다 (세미콜론 제외)
     
-    ![Untitled](/images/sql/sql_Jupiter/5.png)
+    ![](/images/sql/sql_Jupiter/5.png)
     
   
 - Jupyterlab에서 잘 실행되는 것을 확인할 수 있다.
     
-    ![Untitled](/images/sql/sql_Jupiter/6.png)
+    ![](/images/sql/sql_Jupiter/6.png)
     
 
 ## Reference
