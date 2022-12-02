@@ -8,7 +8,7 @@ tag:
   - machine learning
   - scikit-learn
 author: "Jiwon Kang"
-date: 2022-03-26 15:38:35
+date: 2022-12-02 20:18:35
 ---
 
 # 정규화 vs 표준화
