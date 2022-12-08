@@ -9,8 +9,7 @@ author: "Jiwon Kang"
 date: 2022-12-07 11:18:25
 ---
 
-
-**ft. AND(인싸담당자)**
+출처 : Youtube `AND(인싸담당자)` 채널
 
 ---
 

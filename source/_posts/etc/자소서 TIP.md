@@ -1,6 +1,15 @@
-# 자소서 TIP
+---
+title: "자소서 TIP"
+categories:
+  - 취준
+tag:
+  - 취준
+  - 자소서
+author: "Jiwon Kang"
+date: 2022-12-08 23:31:51
+---
 
-**ft. AND(인싸담당자)**
+출처 : Youtube `AND(인싸담당자)` 채널
 
 ---
 
