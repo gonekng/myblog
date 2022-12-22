@@ -77,7 +77,7 @@ Scikit-learn 알고리즘은 수치형 변수만 입력값으로 허용하기 �
 원-핫 인코딩은 각 범주에 대응되는 새로운 변수를 추가하여  
 해당 범주에 대응하는 칼럼에만 1을 표시하고 나머지는 0을 표시하는 방식이다. 
 
-![](/images/Python/ML/Feature Encoding.png)
+![](/images/Python/ML/Feature_Encoding.png)
 
 따라서 인코딩에 앞서 모든 문자열 값이 숫자형으로 변환되어야 하며,  
 Encoder의 입력 값으로 2차원 데이터가 필요하다.
