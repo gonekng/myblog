@@ -209,8 +209,7 @@ st.components.v1.html(open("map.html", "rb").read(), height=600)
 - 지도 객체를 HTML 파일로 저장한 다음, 해당 파일을 바이트 형태로 불러온 후 화면에 출력하는 코드
 
 
-![](myblog/source/images/Python/streamlit/streamlit.png)
-
+![](/images/Python/streamlit/streamlit.png)
 
 
 
