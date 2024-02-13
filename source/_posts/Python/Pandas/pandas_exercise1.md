@@ -37,7 +37,7 @@ for i, file in enumerate(file_list):
 - ‘전국읍면동_인구통계’ 폴더 하의 CSV 파일을 차례대로 불러오는 코드
     - `인구수_전국_2010.csv`
         
-        ![Untitled](C:\Users\user\Desktop\강지원\Github\myblog\source\images\Python\Pandas\Untitled.png)
+        ![Untitled](C:/Users/user/Desktop/강지원/Github/myblog/source/images/Python/Pandas/Untitled.png)
         
 
 ## 2 :: 텍스트 컬럼 SPLIT
