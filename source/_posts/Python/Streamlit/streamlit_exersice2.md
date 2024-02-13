@@ -9,7 +9,7 @@ tag:
   - sqlite
   - pandas
 author: "Jiwon Kang"
-date: 2023-04-06 22:29:04
+date: 2024-02-08 11:17:52
 ---
 
 - Streamlit 기반 웹 대시보드를 Sqlite DB와 연동하는 작업
