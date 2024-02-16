@@ -60,7 +60,6 @@ date: 2024-02-16 23:23:08
         ![](/images/Python/Django/2/Untitled4.png)
         
 
-<aside>
 ### makemigrations와 migrate의 차이
 
 - **migration**은 sql로 진행됨 → 0001_initial.py와 같이 파이썬으로 표현한 다음(**makemigrations**), 이를 바탕으로 다시 sql로 변환하여 프로젝트에 반영함(**migrate**)
@@ -70,8 +69,7 @@ date: 2024-02-16 23:23:08
 - 실제 이행되는 sql 쿼리 확인 : `python manage.py sqlmigrate polls 변경기록번호`
     
     ![](/images/Python/Django/2/Untitled5.png)
-    
-</aside>
+
 
 ## Reference
 
