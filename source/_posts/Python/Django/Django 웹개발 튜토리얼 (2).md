@@ -61,7 +61,7 @@ date: 2024-02-16 23:23:08
         
 
 <aside>
-📌 **makemigrations와 migrate의 차이**
+### makemigrations와 migrate의 차이
 
 - **migration**은 sql로 진행됨 → 0001_initial.py와 같이 파이썬으로 표현한 다음(**makemigrations**), 이를 바탕으로 다시 sql로 변환하여 프로젝트에 반영함(**migrate**)
     - **makemigrations** : application의 모델에 대한 변화를 기록
