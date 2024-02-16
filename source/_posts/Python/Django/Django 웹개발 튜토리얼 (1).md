@@ -26,21 +26,21 @@ date: 2024-02-16 22:59:22
 1. python 인터프리터에서 django 설치
     - `pip install django` 입력
         
-        ![](/images/Python/Django/Django 웹개발 튜토리얼 (1)/Untitled.png)
+        ![](/images/Python/Django/1/Untitled.png)
         
 2. 원하는 경로에 새로운 프로젝트 생성
     - `django-admin startproject mysite` 입력
         
-        ![](/images/Python/Django/Django 웹개발 튜토리얼 (1)/Untitled 1.png)
+        ![](/images/Python/Django/1/Untitled1.png)
         
 3. 개발 서버 구동
     - `cd mysite` > `python manage.py makemigrations` > `python manage.py migrate` > `python manage.py runserver`
         
-        ![](/images/Python/Django/Django 웹개발 튜토리얼 (1)/Untitled 2.png)
+        ![](/images/Python/Django/1/Untitled2.png)
         
     - 이후 [http://127.0.0.1:8000/](http://127.0.0.1:8000/)에 접속하면 다음과 같은 화면이 뜬다.
         
-        ![](/images/Python/Django/Django 웹개발 튜토리얼 (1)/Untitled 3.png)
+        ![](/images/Python/Django/1/Untitled3.png)
         
 
 ## 투표 Application 개발
@@ -50,7 +50,7 @@ date: 2024-02-16 22:59:22
 1. 새로운 application 생성
     - `python manage.py startapp polls` 입력
         
-        ![](/images/Python/Django/Django 웹개발 튜토리얼 (1)/Untitled 4.png)
+        ![](/images/Python/Django/1/Untitled4.png)
         
 2. polls 폴더 안에 생성된 views.py 코드 작성
     
@@ -90,7 +90,7 @@ date: 2024-02-16 22:59:22
     
 5. [http://127.0.0.1:8000/polls](http://127.0.0.1:8000/polls)에 접속하면 다음과 같은 화면 출력
     
-    ![](/images/Python/Django/Django 웹개발 튜토리얼 (1)/Untitled 5.png)
+    ![](/images/Python/Django/1/Untitled5.png)
     
 
 ## Reference
