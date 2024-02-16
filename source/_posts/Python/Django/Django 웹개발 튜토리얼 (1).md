@@ -1,4 +1,15 @@
-# Django 웹개발 튜토리얼 (1)
+---
+title: "Django 웹개발 튜토리얼 (1)"
+categories:
+  - python
+  - django
+tag:
+  - python
+  - django
+  - development
+author: "Jiwon Kang"
+date: 2024-02-16 22:59:22
+---
 
 ## Django란?
 
