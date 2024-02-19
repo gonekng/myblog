@@ -31,15 +31,15 @@ date: 2024-02-16 23:23:08
 - Question : 질문내용, 발행일자 모델
 - Choice : 질문내용, 선택내용, 투표번호 모델
 - Question과 Choice는 외래키로 연결되며, Question이 삭제되면 Choice도 함께 삭제되도록 설정
-    - CharField : 문자열 데이터 필드
-    - DateTimeField : 날짜 및 시간 데이터 필드
-    - IntegerField : 정수형 숫자 데이터 필드
+    - `CharField` : 문자열 데이터 필드
+    - `DateTimeField` : 날짜 및 시간 데이터 필드
+    - `IntegerField` : 정수형 숫자 데이터 필드
 
 ## Model 활성화
 
 > 프로젝트에 Application을 넣을 때, url 연결 외에도 Application의 모델을 프로젝트 모델 스키마에 연결해야 하는 작업 필요
 > 
-1. mysite/settings.py에 있는 INSTALLED_APPS 리스트에 투표 Application 등록
+1. mysite/settings.py에 있는 `INSTALLED_APPS` 리스트에 투표 Application 등록
     - 투표 Application의 클래스 이름은 polls/apps.py에서 확인가능 → `PollsConfig`
         
         ![](/images/Python/Django/2/Untitled.png)
