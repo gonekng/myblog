@@ -211,7 +211,7 @@ date: 2024-02-19 22:45:02
 
 - `{% url %}` 태그를 사용하면 하드코드가 아닌 유동적인 코드로 작성 가능
     
-    → {% url (원하는 view의 url 이름) (url에 들어갈 입력변수) %}
+    → `{% url (원하는 view의 url 이름) (url에 들어갈 입력변수) %}`
     
 - polls/templates/polls/index.html
     
