@@ -112,7 +112,7 @@ Django의 모델을 정의하여 데이터베이스 테이블을 앱 내에서 �
     - `YourModel`에 대한 테이블이 데이터베이스에 생성됨
 
 <aside>
-💡 **마이그레이션(Migration)**
+※ 마이그레이션(Migration)
 
 - Django에서 데이터베이스의 스키마를 관리하는 방법
     1. 모델 변경 관리
@@ -200,7 +200,7 @@ API 개발을 위하여 시리얼라이저(Serializer) 및 뷰(View) 생성
     - `get_queryset(self)` : field1 컬럼을 키값으로 하여 데이터를 조회하는 쿼리 함수
 
 <aside>
-💡 **시리얼라이저(Serializer)**
+※ 시리얼라이저(Serializer)
 
 - Django REST Framework(DRF)에서 데이터 변환을 담당하는 구성요소
     1. 데이터 직렬화(Serialization)
@@ -320,4 +320,4 @@ Django의 `ALLOWED_HOSTS` 설정을 통해 웹 서버가 받아들일 수 있는
     
 - 실행화면(예시)
     
-    ![](\images\Python\Django\image.png)
+    ![](/images/Python/Django/image.png)
