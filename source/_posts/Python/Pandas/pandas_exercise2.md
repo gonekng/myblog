@@ -10,10 +10,10 @@ author: "Jiwon Kang"
 date: 2024-12-07 16:17:30
 ---
 
-데이터 분석을 위한 Python 라이브러리 Pandas에는 데이터프레임을 구조화하는 여러 함수들이 있다.  
-데이터프레임은 2차원 테이블 형태로, 각 인덱스(행)와 컬럼(열)을 통해 데이터에 접근 및 조작이 가능하다.  
+Python 라이브러리 Pandas에는 데이터프레임을 구조화하는 함수들이 있다.  
+각 인덱스(행)와 컬럼(열)을 통해 데이터에 접근 및 조작이 가능하다.  
 
-![이미지 출처 : [https://www.w3resource.com/python-exercises/pandas/index.php](https://www.w3resource.com/python-exercises/pandas/index.php)](https://blog.kakaocdn.net/dn/4XCuG/btqPsCKDKGy/p29ilnD0gSzabqgbtas95k/img.jpg)
+![www.w3resource.com](https://blog.kakaocdn.net/dn/4XCuG/btqPsCKDKGy/p29ilnD0gSzabqgbtas95k/img.jpg)
 
 ---
 
