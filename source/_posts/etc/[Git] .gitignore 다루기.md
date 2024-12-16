@@ -1,5 +1,5 @@
 ---
-title: "# [Git] .gitignore 다루기"
+title: "[Git] .gitignore 다루기"
 categories:
   - etc
 tag:
@@ -29,15 +29,14 @@ $ touch .gitignore
 - `touch` 명령어는 파일의 생성 및 날짜/시간을 수정하는 명령어
 - 해당 파일이 없을 경우 크기가 0인 파일을 생성하며, 이미 존재할 경우 수정 시간이 업데이트된다. (파일 내용 수정 X)
 
-### (TIP) .gitignore 파일을 생성해주는 사이트
-
+- **(TIP) .gitignore 파일을 생성해주는 사이트**  
 [gitignore.io](https://www.toptal.com/developers/gitignore)
 
 ---
 
 ## .gitignore 작성 방법
 
-프로젝트의 루트 디렉토리에 `.gitignore` 파일을 생성하고 다음과 같은 패턴을 활용하여 작성한다.
+루트 디렉토리에 `.gitignore` 파일을 생성하고 다음과 같은 패턴을 활용하여 작성한다.
 
 - `#` : 주석 표기
 - `*` : 모든 문자와 매칭
