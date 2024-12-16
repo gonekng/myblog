@@ -2,7 +2,7 @@
 title: "Python Basic 4"
 categories:
   - python
-  - tutorial
+  - basic
 tag:
   - python
   - google colab

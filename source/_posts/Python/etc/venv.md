@@ -2,7 +2,7 @@
 title: "파이썬 가상환경 설정하기 (Git Bash)"
 categories:
   - python
-  - setting
+  - etc
 tag:
   - python
   - git
